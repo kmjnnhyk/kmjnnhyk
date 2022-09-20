@@ -2,7 +2,7 @@
 
 ![reversal](https://capsule-render.vercel.app/api?type=cylinder&text=KMJNNHYK&fontAlign=50&fontSize=90&color=FF9436&height=250&desc=😄행복해thㅓ%20웃는%20게%20아니라%20웃어thㅓ%20행복한%20겁니다%20😄&descAlignY=70&descSize=15)
 
-<p>안녕하세요. 긍적적으로 재밌게 일하고 싶은 프론트엔드 개발자 김진혁입니다!</p>&nbsp;
+<p>안녕하세요. 재밌게 일하고 싶은 프론트엔드 개발자, 인간긍정 김진혁입니다!</p>&nbsp;
 
 ### 🧑🏽‍🔧 SKILLS
 ###### (색깔이 진할수록 더 자신 있는 기술입니다)
