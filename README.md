@@ -34,6 +34,9 @@
 ![Slack](https://img.shields.io/badge/Slack-FF8224.svg?&style=for-the-badge&logo=Slack&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FFFFA2.svg?&style=for-the-badge&logo=Figma&logoColor=black)
 
+##### 🛠 BUILD & DEPLOY
+![Docker](https://img.shields.io/badge/Docker-FFFFA2.svg?&style=for-the-badge&logo=Docker&logoColor=black)
+![AWSAmplify](https://img.shields.io/badge/AWS&nbsp;Amplify-FFFFA2.svg?&style=for-the-badge&logo=AWSAmplify&logoColor=black)
 <br/>
 
 ### 🚩 PROJECTS
