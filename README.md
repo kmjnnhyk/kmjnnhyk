@@ -7,36 +7,39 @@
 ### 🧑🏽‍🔧 SKILLS
 ###### (색깔이 진할수록 더 자신 있는 기술입니다)
 ##### 💬 languages
-![javascript](https://img.shields.io/badge/javascript-FF8224.svg?&style=for-the-badge&textColor=black&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-FFA648.svg?&style=for-the-badge&logo=typescript&logoColor=black)
+![javascript](https://img.shields.io/badge/javascript-FF8224.svg?&style=for-the-badge&textColor=black&logo=javascript&logoColor=javascript)
+![typescript](https://img.shields.io/badge/typescript-FFA648.svg?&style=for-the-badge&logo=typescript&logoColor=typescript)
 
 ##### ⚙️ frameworks
-![React](https://img.shields.io/badge/React.js-ED4C00.svg?&style=for-the-badge&logo=React&logoColor=black)
-![React-Naive](https://img.shields.io/badge/react%20native-FFB85A.svg?&style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-FFDC7E.svg?&style=for-the-badge&logo=Next.js&logoColor=black)
+![React](https://img.shields.io/badge/React.js-ED4C00.svg?&style=for-the-badge&logo=React&logoColor=React)
+![React-Naive](https://img.shields.io/badge/react%20native-FFB85A.svg?&style=for-the-badge&logo=React&logoColor=React-Native)
+![Next.js](https://img.shields.io/badge/next.js-FFB85A.svg?&style=for-the-badge&logo=Next.js&logoColor=Next.js)
 
 ##### 👨🏽‍💻 state management
 ![Recoil](https://img.shields.io/badge/recoil-FF8224.svg?&style=for-the-badge&logoColor=black)
-![React-Query](https://img.shields.io/badge/react%20query-FF8224.svg?&style=for-the-badge&logo=React&20Query&logoColor=black)
+![React-Query](https://img.shields.io/badge/react%20query-FF8224.svg?&style=for-the-badge&logo=React&20Query&logoColor=React-Query)
 
 ##### 🎨 styling
-![Tailwind](https://img.shields.io/badge/tailwind-ED4C00.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=black)
-![sass](https://img.shields.io/badge/sass-FF8224.svg?&style=for-the-badge&logo=sass&logoColor=black)
-![styled-components](https://img.shields.io/badge/styled%20components-FFA648.svg?&style=for-the-badge&logo=styled-components&logoColor=black)
+![Tailwind](https://img.shields.io/badge/tailwind-FF8224.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=Tailwind)
+![sass](https://img.shields.io/badge/sass-ED4C00.svg?&style=for-the-badge&logo=sass&logoColor=sass)
+![styled-components](https://img.shields.io/badge/styled%20components-ED4C00.svg?&style=for-the-badge&logo=styled-components&logoColor=styled-components)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-FF8224.svg?&style=for-the-badge&logo=Ant-Design&logoColor=Ant-Design)
 
 ##### 🎥 animations
-![gsap](https://img.shields.io/badge/gsap-FFFFA2.svg?&style=for-the-badge&logo=GreenSock&logoColor=black)
-![three.js](https://img.shields.io/badge/three.js-FFB85A.svg?&style=for-the-badge&logo=three.js&logoColor=black)
+![gsap](https://img.shields.io/badge/gsap-FFFFA2.svg?&style=for-the-badge&logo=GreenSock&logoColor=gsap)
+![three.js](https://img.shields.io/badge/three.js-FFB85A.svg?&style=for-the-badge&logo=three.js&logoColor=three.js)
 
 ##### 🏢 coworking tools
-![Notion](https://img.shields.io/badge/Notion-FF8224.svg?&style=for-the-badge&logo=Notion&logoColor=black)
-![ZenHub](https://img.shields.io/badge/ZenHub-FFA648.svg?&style=for-the-badge&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-FF8224.svg?&style=for-the-badge&logo=Slack&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-FFFFA2.svg?&style=for-the-badge&logo=Figma&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-FF8224.svg?&style=for-the-badge&logo=Notion&logoColor=Notion)
+![ZenHub](https://img.shields.io/badge/ZenHub-FFA648.svg?&style=for-the-badge&logoColor=Zenhub)
+![Slack](https://img.shields.io/badge/Slack-FF8224.svg?&style=for-the-badge&logo=Slack&logoColor=Slack)
+![Figma](https://img.shields.io/badge/Figma-FFFFA2.svg?&style=for-the-badge&logo=Figma&logoColor=Figma)
 
-##### 🛠 BUILD & DEPLOY
-![Docker](https://img.shields.io/badge/Docker-FFFFA2.svg?&style=for-the-badge&logo=Docker&logoColor=black)
-![AWSAmplify](https://img.shields.io/badge/AWS&nbsp;Amplify-FFFFA2.svg?&style=for-the-badge&logo=AWSAmplify&logoColor=black)
+##### 🛠 ETC
+![Docker](https://img.shields.io/badge/Docker-FFFFA2.svg?&style=for-the-badge&logo=Docker&logoColor=Docker)
+![Vercel](https://img.shields.io/badge/Vercel-FFFFA2.svg?&style=for-the-badge&logo=Vercel&logoColor=Vercel)
+![Firebase](https://img.shields.io/badge/Firebase-FF8224.svg?&style=for-the-badge&logo=Firebase&logoColor=Firebase)
+
 <br/>
 
 ### 🚩 PROJECTS
