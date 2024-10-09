@@ -1,56 +1,49 @@
 <div align="center">
 
-![reversal](https://capsule-render.vercel.app/api?type=cylinder&text=KMJNNHYK&fontAlign=50&fontSize=90&color=FF9436&height=250&desc=😄행복해thㅓ%20웃는%20게%20아니라%20웃어thㅓ%20행복한%20겁니다%20😄&descAlignY=70&descSize=15)
+![reversal](https://capsule-render.vercel.app/api?type=rounded&text=KMJNNHYK&fontAlign=50&fontSize=90&color=FF9436&height=250&borderRadius=6&desc=😄안녕하세요,%20Product%20Engineer(가%20되고싶은)%20김진혁입니다!😄&descAlignY=70&descSize=15)
 
-<p>안녕하세요. 재밌게 일하고 싶은 프론트엔드 개발자 김진혁입니다!</p>&nbsp;
-
-### 🧑🏽‍🔧 SKILLS
-###### (색깔이 진할수록 더 자신 있는 기술입니다)
 ##### 💬 languages
-![javascript](https://img.shields.io/badge/javascript-FF8224.svg?&style=for-the-badge&textColor=black&logo=javascript&logoColor=javascript)
-![typescript](https://img.shields.io/badge/typescript-FFA648.svg?&style=for-the-badge&logo=typescript&logoColor=typescript)
+![javascript](https://img.shields.io/badge/javascript-3C3D37.svg?&style=for-the-badge&textColor=black&logo=javascript&logoColor=javascript)
+![typescript](https://img.shields.io/badge/typescript-3C3D37.svg?&style=for-the-badge&logo=typescript&logoColor=typescript)
 
 ##### ⚙️ frameworks
-![React](https://img.shields.io/badge/React.js-ED4C00.svg?&style=for-the-badge&logo=React&logoColor=React)
-![React-Naive](https://img.shields.io/badge/react%20native-FFB85A.svg?&style=for-the-badge&logo=React&logoColor=React-Native)
-![Next.js](https://img.shields.io/badge/next.js-FFB85A.svg?&style=for-the-badge&logo=Next.js&logoColor=Next.js)
+![React](https://img.shields.io/badge/React.js-3C3D37.svg?&style=for-the-badge&logo=React&logoColor=React)
+![React-Naive](https://img.shields.io/badge/react%20native-3C3D37.svg?&style=for-the-badge&logo=React&logoColor=React-Native)
+![expo](https://img.shields.io/badge/Expo-3C3D37.svg?&style=for-the-badge&logo=Expo&logoColor=Expo)
+![Next.js](https://img.shields.io/badge/next.js-3C3D37.svg?&style=for-the-badge&logo=Next.js&logoColor=Next.js)
 
 ##### 👨🏽‍💻 state management
-![Recoil](https://img.shields.io/badge/recoil-FF8224.svg?&style=for-the-badge&logoColor=black)
-![React-Query](https://img.shields.io/badge/react%20query-FF8224.svg?&style=for-the-badge&logo=React&20Query&logoColor=React-Query)
+![Recoil](https://img.shields.io/badge/recoil-3C3D37.svg?&style=for-the-badge&logoColor=black)
+![React-Query](https://img.shields.io/badge/react%20query-3C3D37.svg?&style=for-the-badge&logo=React&20Query&logoColor=React-Query)
 
 ##### 🎨 styling
-![Tailwind](https://img.shields.io/badge/tailwind-FF8224.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=Tailwind)
-![sass](https://img.shields.io/badge/sass-ED4C00.svg?&style=for-the-badge&logo=sass&logoColor=sass)
-![styled-components](https://img.shields.io/badge/styled%20components-ED4C00.svg?&style=for-the-badge&logo=styled-components&logoColor=styled-components)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-FF8224.svg?&style=for-the-badge&logo=Ant-Design&logoColor=Ant-Design)
+![Tailwind](https://img.shields.io/badge/tailwind-3C3D37.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=Tailwind)
+![sass](https://img.shields.io/badge/sass-3C3D37.svg?&style=for-the-badge&logo=sass&logoColor=sass)
+![styled-components](https://img.shields.io/badge/styled%20components-3C3D37.svg?&style=for-the-badge&logo=styled-components&logoColor=styled-components)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-3C3D37.svg?&style=for-the-badge&logo=Ant-Design&logoColor=Ant-Design)
+![Stacks](https://img.shields.io/badge/Stacks-3C3D37.svg?&style=for-the-badge&logoColor=Stacks)
 
 ##### 🎥 animations
-![gsap](https://img.shields.io/badge/gsap-FFFFA2.svg?&style=for-the-badge&logo=GreenSock&logoColor=gsap)
-![three.js](https://img.shields.io/badge/three.js-FFB85A.svg?&style=for-the-badge&logo=three.js&logoColor=three.js)
+![reanimated](https://img.shields.io/badge/reanimated-3C3D37.svg?&style=for-the-badge&logo=React&20Native&20Reanimated&logoColor=React-Native-Reanimated)
+![rive](https://img.shields.io/badge/rive-3C3D37.svg?&style=for-the-badge&logo=rive&logoColor=rive)
+![gsap](https://img.shields.io/badge/gsap-3C3D37.svg?&style=for-the-badge&logo=GreenSock&logoColor=gsap)
+![three.js](https://img.shields.io/badge/three.js-3C3D37.svg?&style=for-the-badge&logo=three.js&logoColor=three.js)
+
+##### 🛠 testing
+![storybook](https://img.shields.io/badge/storybook-3C3D37.svg?&style=for-the-badge&logo=storybook&logoColor=storybook)
 
 ##### 🏢 coworking tools
-![Notion](https://img.shields.io/badge/Notion-FF8224.svg?&style=for-the-badge&logo=Notion&logoColor=Notion)
-![ZenHub](https://img.shields.io/badge/ZenHub-FFA648.svg?&style=for-the-badge&logoColor=Zenhub)
-![Slack](https://img.shields.io/badge/Slack-FF8224.svg?&style=for-the-badge&logo=Slack&logoColor=Slack)
-![Figma](https://img.shields.io/badge/Figma-FFFFA2.svg?&style=for-the-badge&logo=Figma&logoColor=Figma)
+![Notion](https://img.shields.io/badge/Notion-3C3D37.svg?&style=for-the-badge&logo=Notion&logoColor=Notion)
+![ZenHub](https://img.shields.io/badge/ZenHub-3C3D37.svg?&style=for-the-badge&logoColor=Zenhub)
+![Slack](https://img.shields.io/badge/Slack-3C3D37.svg?&style=for-the-badge&logo=Slack&logoColor=Slack)
+![Figma](https://img.shields.io/badge/Figma-3C3D37.svg?&style=for-the-badge&logo=Figma&logoColor=Figma)
 
 ##### 🛠 ETC
-![Docker](https://img.shields.io/badge/Docker-FFFFA2.svg?&style=for-the-badge&logo=Docker&logoColor=Docker)
-![Vercel](https://img.shields.io/badge/Vercel-FFFFA2.svg?&style=for-the-badge&logo=Vercel&logoColor=Vercel)
-![Firebase](https://img.shields.io/badge/Firebase-FF8224.svg?&style=for-the-badge&logo=Firebase&logoColor=Firebase)
+![Docker](https://img.shields.io/badge/Docker-3C3D37.svg?&style=for-the-badge&logo=Docker&logoColor=Docker)
+![Vercel](https://img.shields.io/badge/Vercel-3C3D37.svg?&style=for-the-badge&logo=Vercel&logoColor=Vercel)
+![Firebase](https://img.shields.io/badge/Firebase-3C3D37.svg?&style=for-the-badge&logo=Firebase&logoColor=Firebase)
 
-<br/>
-
-### 🚩 PROJECTS
-
-|`프로그램`|`기간`|`내용`|
-|:-------:|:--------:|--------------|
-|**[ RidingMate ]**<br/>바이크 중고거래 웹 사이트<br/>[GitHub 바로가기](https://github.com/RidingMate/RidingMate-FrontEnd)|2022.05.02 ~ 2022.08.15|<ul><li>내 바이크 확인 및 등록 페이지 레이아웃 작업</li><li>바이크 등록 formData 가공 및 post</li><li>레포지토리 컨벤션 정리</li><li>이미지 슬라이더 제작</li><li>커스텀 select 컴포넌트 제작</li><li>`axios` 베이스 세팅 및 `react-query`를 이용한 커스텀 훅 제작</li></ul>|
-|**[ 1Hour ]**<br/>기술면접 준비 웹 사이트<br/>[서비스 바로가기](https://1hour-front-g0ao8v9hs-de-yobalja.vercel.app/)|2022.06.15 ~ 진행 중|<ul><li>`next.js`를 이용한 전체적인 레이아웃 작업</li><li>메인 페이지 작업</li><li>베이스 API 설정</li><li>목업 데이터를 이용하여 임시적으로 MVP 기능 구현</li><li>글쓰기 페이지 작업</li><li>issue 관리 매뉴얼 제작</li><li>`tainwind CSS`를 이용하여 다크모드 적용</li></ul>|
-|**[ 러너피아 ]**<br/>러닝 경로 추천 및 공유 어플리케이션<br/>[GitHub 바로가기](https://github.com/dnd-side-project/dnd-7th-7-frontend)<br/>[1차 시연영상](https://youtu.be/jPH17o5UZXQ)|2022.07.04 ~ 진행 중|<ul><li>`expo`를 이용한 `react-native` 프로젝트 세팅</li><li>ZenHub 세팅 및 관리</li><li>전체적인 스크린 경로 세팅</li><li>global css variables 설정</li><li>커스텀 컴포넌트 및 훅 제작(Font, BottomModal, TagSelectSection, useCountTag() 등등)</li><li>온보딩, 메인, 경로등록, 검색 페이지 담당</li><li>`recoil`을 이용한 상태관리 세팅</li><li>API 연결</li></ul>|
 </div>
-
 
 
 
