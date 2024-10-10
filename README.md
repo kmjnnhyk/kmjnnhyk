@@ -15,6 +15,7 @@
 ##### 👨🏽‍💻 state management
 ![Recoil](https://img.shields.io/badge/recoil-3C3D37.svg?&style=for-the-badge&logoColor=black)
 ![React-Query](https://img.shields.io/badge/react%20query-3C3D37.svg?&style=for-the-badge&logo=React&20Query&logoColor=React-Query)
+![GraphQL](https://img.shields.io/badge/graphql-3C3D37.svg?&style=for-the-badge&logo=graphql&20Query&logoColor=graphql)
 
 ##### 🎨 styling
 ![Tailwind](https://img.shields.io/badge/tailwind-3C3D37.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=Tailwind)
@@ -37,6 +38,7 @@
 ![ZenHub](https://img.shields.io/badge/ZenHub-3C3D37.svg?&style=for-the-badge&logoColor=Zenhub)
 ![Slack](https://img.shields.io/badge/Slack-3C3D37.svg?&style=for-the-badge&logo=Slack&logoColor=Slack)
 ![Figma](https://img.shields.io/badge/Figma-3C3D37.svg?&style=for-the-badge&logo=Figma&logoColor=Figma)
+![Linear](https://img.shields.io/badge/Linear-3C3D37.svg?&style=for-the-badge&logo=Linear&logoColor=Linear)
 
 ##### 🛠 ETC
 ![Docker](https://img.shields.io/badge/Docker-3C3D37.svg?&style=for-the-badge&logo=Docker&logoColor=Docker)
